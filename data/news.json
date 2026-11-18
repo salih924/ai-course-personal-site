@@ -44,6 +44,12 @@
     "updated": "2026-11-18",
     "stories": [
       {
+        "title": "IndyCar 2026 season review: Arrow McLaren",
+        "url": "https://www.motorsport.com/indycar/news/indycar-2026-season-review-arrow-mclaren/10875355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T18:17:28+00:00",
+        "summary": "The 2026 IndyCar Series season will be remembered as a transformative, high-stakes campaign for Arrow McLaren – a year defined by groundbreaking organizational…"
+      },
+      {
         "title": "Formula E Jarama test: Edoardo Mortara tops day two of Gen4 running",
         "url": "https://www.motorsport.com/formula-e/news/formulae-jarama-testing-edoardo-mortara-tops-day-two/10875343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
         "date": "2026-11-18T18:00:49+00:00",
@@ -72,12 +78,6 @@
         "url": "https://www.motorsport.com/nascar-cup/news/nascar-reveals-invites-for-daytona-clash-qualifying-package-to-exceed-200-mph/10875320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
         "date": "2026-11-18T16:20:42+00:00",
         "summary": "There are several unique wrinkles for the return of The Clash to Daytona, in both who has been invited to participate, but also how the field will be set in…"
-      },
-      {
-        "title": "Why results don’t do justice to Genesis’ “rocketship” pace in WEC",
-        "url": "https://www.motorsport.com/wec/news/why-results-dont-do-justice-to-genesis-rocketship-pace-in-wec/10875269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-18T15:56:46+00:00",
-        "summary": "On paper, Genesis’ maiden Hypercar campaign in the World Endurance Championship was rather unremarkable. The #17 GMR-001 finished inside the top 10 on just…"
       }
     ]
   },
@@ -85,22 +85,16 @@
     "updated": "2026-11-18",
     "stories": [
       {
+        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
+        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
+        "date": "2026-11-18T16:52:00+00:00",
+        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
+      },
+      {
         "title": "Honda invests $462M in Alabama plant to boost production",
         "url": "https://www.wardsauto.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/874978/",
         "date": "2026-11-18T16:46:00+00:00",
         "summary": "The funds will be used to increase production capacity of high-demand models and add a line to build a new V-6 hybrid engine."
-      },
-      {
-        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
-        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
-        "date": "2026-11-18T16:25:00+00:00",
-        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
-      },
-      {
-        "title": "JLR’s restructuring leads to large loss in Q2",
-        "url": "https://www.wardsauto.com/news/jlrs-restructuring-leads-to-large-loss-in-q2/874720/",
-        "date": "2026-11-18T16:19:00+00:00",
-        "summary": "A year after a crippling cyberattack, the automaker is now absorbing the costs of job cuts and hopes that newly launched models will help grow its sales…"
       },
       {
         "title": "Automakers face big challenges as they compete with China’s brands",
@@ -119,6 +113,12 @@
         "url": "https://www.wardsauto.com/news/auto-loan-delinquency-stats-could-begin-to-lessen-as-pandemic-echo-fades/874795/",
         "date": "2026-11-17T16:57:00+00:00",
         "summary": "While delinquencies are still on the rise, New York Fed researchers believe the trend is a throwback to an era when inflated credit scores helped more…"
+      },
+      {
+        "title": "Why Stivers Automotive Group bought a Kia dealership from Asbury",
+        "url": "https://www.wardsauto.com/news/why-stivers-automotive-group-bought-a-kia-dealership-from-asbury/874700/",
+        "date": "2026-11-16T15:35:00+00:00",
+        "summary": "Kia is one of just a few brands the dealer group has chosen to focus on, as it scales its business by spanning different regions with similar franchises."
       }
     ]
   }
