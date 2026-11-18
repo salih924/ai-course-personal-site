@@ -1,0 +1,125 @@
+{
+  "stock-market": {
+    "updated": "2026-11-18",
+    "stories": [
+      {
+        "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
+        "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-midday-nvda-mrna-ionq-abnb-fly.html",
+        "date": "2026-11-06T17:35:33+00:00",
+        "summary": "Here are some of the companies making headlines in midday trading."
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
+        "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
+        "date": "2026-11-06T13:05:50+00:00",
+        "summary": "These are some of the stocks posting the largest moves premarket."
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: DraftKings, Cloudflare, Airbnb, Atlassian & more",
+        "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html",
+        "date": "2026-11-05T22:31:28+00:00",
+        "summary": "Here are the companies making headlines in extended trading."
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more",
+        "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
+        "date": "2026-11-05T18:09:36+00:00",
+        "summary": "Here are some of the companies making headlines in midday trading."
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+        "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
+        "date": "2026-11-05T13:17:00+00:00",
+        "summary": "These are the stocks posting the largest moves in early trading."
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+        "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
+        "date": "2026-11-04T22:04:55+00:00",
+        "summary": "These are the stocks posting the largest moves after hours."
+      }
+    ]
+  },
+  "motorsport": {
+    "updated": "2026-11-18",
+    "stories": [
+      {
+        "title": "Formula E Jarama test: Edoardo Mortara tops day two of Gen4 running",
+        "url": "https://www.motorsport.com/formula-e/news/formulae-jarama-testing-edoardo-mortara-tops-day-two/10875343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T18:00:49+00:00",
+        "summary": "Formula E completed the second of its three-day pre-season test on Wednesday at Jarama and there were three hours of testing in the morning, a race simulation…"
+      },
+      {
+        "title": "F1 to showcase driver health data as it partners with WHOOP",
+        "url": "https://www.motorsport.com/f1/news/f1-to-showcase-driver-health-data-as-it-partners-with-whoop/10875341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T17:37:23+00:00",
+        "summary": "Formula 1 has signed a deal with wearables company WHOOP which will see a number of drivers wear the company's health trackers and showcase their data on the…"
+      },
+      {
+        "title": "Alex Palou to carry expanded full-season OpenAI primary sponsorship with Chip Ganassi Racing in 2027",
+        "url": "https://www.motorsport.com/indycar/news/alex-palou-to-carry-expanded-full-season-openai-primary-sponsorship-with-chip-ganassi-racing-in-2027/10875318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T17:00:14+00:00",
+        "summary": "OpenAI and Chip Ganassi Racing (CGR) have signed a major partnership extension that will elevate the world’s leading artificial intelligence research and…"
+      },
+      {
+        "title": "Five things to watch out for at the F1 Las Vegas GP",
+        "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-las-vegas-gp/10875316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T16:30:40+00:00",
+        "summary": "Formula 1 kickstarts its final triple-header of the 2026 campaign with this weekend’s Las Vegas Grand Prix. The American venue serves as race 21 of the…"
+      },
+      {
+        "title": "NASCAR reveals invites for Daytona Clash, qualifying package to exceed 200 mph",
+        "url": "https://www.motorsport.com/nascar-cup/news/nascar-reveals-invites-for-daytona-clash-qualifying-package-to-exceed-200-mph/10875320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T16:20:42+00:00",
+        "summary": "There are several unique wrinkles for the return of The Clash to Daytona, in both who has been invited to participate, but also how the field will be set in…"
+      },
+      {
+        "title": "Why results don’t do justice to Genesis’ “rocketship” pace in WEC",
+        "url": "https://www.motorsport.com/wec/news/why-results-dont-do-justice-to-genesis-rocketship-pace-in-wec/10875269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-18T15:56:46+00:00",
+        "summary": "On paper, Genesis’ maiden Hypercar campaign in the World Endurance Championship was rather unremarkable. The #17 GMR-001 finished inside the top 10 on just…"
+      }
+    ]
+  },
+  "automotive-industry": {
+    "updated": "2026-11-18",
+    "stories": [
+      {
+        "title": "Honda invests $462M in Alabama plant to boost production",
+        "url": "https://www.wardsauto.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/874978/",
+        "date": "2026-11-18T16:46:00+00:00",
+        "summary": "The funds will be used to increase production capacity of high-demand models and add a line to build a new V-6 hybrid engine."
+      },
+      {
+        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
+        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
+        "date": "2026-11-18T16:25:00+00:00",
+        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
+      },
+      {
+        "title": "JLR’s restructuring leads to large loss in Q2",
+        "url": "https://www.wardsauto.com/news/jlrs-restructuring-leads-to-large-loss-in-q2/874720/",
+        "date": "2026-11-18T16:19:00+00:00",
+        "summary": "A year after a crippling cyberattack, the automaker is now absorbing the costs of job cuts and hopes that newly launched models will help grow its sales…"
+      },
+      {
+        "title": "Automakers face big challenges as they compete with China’s brands",
+        "url": "https://www.wardsauto.com/news/automakers-face-big-challenges-as-they-compete-with-chinas-brands/874686/",
+        "date": "2026-11-17T17:12:00+00:00",
+        "summary": "Legacy OEMs need to reduce manufacturing costs, improve technology and build more affordable vehicles to stay competitive in the global market."
+      },
+      {
+        "title": "Mercedes-Benz freezes German plant investment as production costs soar",
+        "url": "https://www.wardsauto.com/news/mercedes-benz-freezes-german-plant-investment-as-production-costs-soar/874790/",
+        "date": "2026-11-17T17:04:00+00:00",
+        "summary": "A growing cost disparity with Eastern European factories has pushed the automaker to rethink the future of its domestic manufacturing operations."
+      },
+      {
+        "title": "Auto loan delinquency stats could begin to lessen as pandemic ‘echo’ fades",
+        "url": "https://www.wardsauto.com/news/auto-loan-delinquency-stats-could-begin-to-lessen-as-pandemic-echo-fades/874795/",
+        "date": "2026-11-17T16:57:00+00:00",
+        "summary": "While delinquencies are still on the rise, New York Fed researchers believe the trend is a throwback to an era when inflated credit scores helped more…"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Salih Bishara Page",
+  "introduction": "I’m taking AI Usage for Engineering Design. I built this page to share the stock market, motorsport, and automotive industry stories I follow.",
+  "github": "https://github.com/salih924",
+  "topics": [
+    {
+      "slug": "stock-market",
+      "name": "Stock Market",
+      "publisher": "CNBC Market Insider",
+      "feed": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20409666",
+      "description": "The companies, earnings, and trading sessions making market news."
+    },
+    {
+      "slug": "motorsport",
+      "name": "Motorsport",
+      "publisher": "Motorsport.com",
+      "feed": "https://www.motorsport.com/rss/all/news/",
+      "description": "Race weekends, results, and developments from teams around the paddock."
+    },
+    {
+      "slug": "automotive-industry",
+      "name": "Automotive Industry",
+      "publisher": "WardsAuto",
+      "feed": "https://www.wardsauto.com/feeds/news/",
+      "description": "The engineering, manufacturing, and business behind the cars on the road."
+    }
+  ]
+}
