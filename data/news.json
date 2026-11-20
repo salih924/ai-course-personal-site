@@ -1,6 +1,6 @@
 {
   "stock-market": {
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "stories": [
       {
         "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
@@ -41,54 +41,66 @@
     ]
   },
   "motorsport": {
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "stories": [
       {
-        "title": "Why Ducati Portimao seat is like a \"dream\" for Iker Lecuona: \"I've gone through hell\"",
-        "url": "https://www.motorsport.com/motogp/news/lecuona-estoy-viviendo-un-sueno-y-como-un-nino-he-comido-mucha-mierda-en-estos-anos-/10875646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T14:58:57+00:00",
-        "summary": "Iker Lecona says getting a chance to ride for the factory Ducati team at this weekend's Portuguese Grand Prix is like a \"dream\" after going through \"hell a…"
+        "title": "Maverick Vinales withdraws from the Portuguese GP",
+        "url": "https://www.motorsport.com/motogp/news/maverick-vinales-withdraws-from-the-portuguese-gp/10876063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T14:53:15+00:00",
+        "summary": "Maverick Vinales will sit out the remainder of MotoGP's Portuguese Grand Prix weekend, with Tech3 drafting in KTM's test rider Pol Espargaro as his…"
       },
       {
-        "title": "Maverick Vinales considering a freelance role: \"I want to stay in MotoGP\"",
-        "url": "https://www.motorsport.com/motogp/news/vinales-considering-a-freelance-role-i-want-to-stay-in-motogp/10875642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T14:39:17+00:00",
-        "summary": "Maverick Vinales does not have a seat for next season in MotoGP, but he is reluctant to accept that his racing career is over and is considering the…"
+        "title": "Toyota, M-Sport weigh in on the WRC 2027 Rally1-vs-Rally2 debate",
+        "url": "https://www.motorsport.com/wrc/news/how-toyota-m-sport-view-the-wrc-2027-rally1-vs-rally2-debate/10876048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T13:25:59+00:00",
+        "summary": "Barring a freak event, new Rally1 cars will have the performance edge over Rally2 cars to win all World Rally Championship rallies in 2027, Toyota and M-Sport…"
       },
       {
-        "title": "Lewis Hamilton opens up on \"isolating\" feeling after seeing his own F1 Las Vegas grandstand",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-f1-feeling-isolating-and-lonely-after-seeing-his-own-las-vegas-grandstand/10875545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T13:06:36+00:00",
-        "summary": "Nearly two decades into his Formula 1 career, Lewis Hamilton still is not taking the scale of his following for granted. Speaking on media day ahead of the…"
+        "title": "Charles Leclerc opens up on sleepless nights and parenthood: \"Forget about how tired you are\"",
+        "url": "https://www.motorsport.com/culture/news/leclerc-opens-up-on-sleepless-nights-with-newborn-daughter-bianca-you-forget-about-how-tired-you-are/10875998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T12:53:51+00:00",
+        "summary": "Formula 1’s late-night Las Vegas Grand Prix timetable is tough on any driver’s body clock, but Charles Leclerc arrived in Nevada already running on a fraction…"
       },
       {
-        "title": "Lando Norris: “A hell of a lot of money” riding on McLaren’s fight for third",
-        "url": "https://www.motorsport.com/f1/news/lando-norris-a-hell-of-a-lot-of-money-riding-on-mclarens-fight-for-third/10875499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T11:50:02+00:00",
-        "summary": "With Mercedes having already sealed the 2026 constructors' championship and Ferrari sitting clear in second, McLaren's remaining focus across Las Vegas, Qatar,…"
+        "title": "Max Verstappen: “I really thought that we would not win a race this year”",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T12:43:44+00:00",
+        "summary": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this…"
       },
       {
-        "title": "Lewis Hamilton addresses speculation around Ferrari \"trust\" issues",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T11:48:39+00:00",
-        "summary": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent…"
+        "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
+        "url": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T12:15:03+00:00",
+        "summary": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the…"
       },
       {
-        "title": "Charles Leclerc on journalist ban: “I was surprised by the choice of words”",
-        "url": "https://www.motorsport.com/f1/news/charles-leclerc-on-journalist-ban-i-was-surprised-by-the-choice-of-words/10875509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-19T10:41:53+00:00",
-        "summary": "Charles Leclerc had no hand in getting a veteran Formula 1 reporter barred from the paddock, and he isn't interested in policing the press - even when the…"
+        "title": "How the F1 2026 regulations neutered Oscar Piastri's \"real strength\"",
+        "url": "https://www.motorsport.com/f1/news/how-the-f1-2026-regulations-neutered-oscar-piastris-real-strength/10875907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-20T11:30:03+00:00",
+        "summary": "McLaren boss Zak Brown reckons Oscar Piastri’s struggles in the 2026 Formula 1 season stem from high-speed corners being his strength - but the new cars…"
       }
     ]
   },
   "automotive-industry": {
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "stories": [
       {
-        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
-        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
-        "date": "2026-11-18T16:52:00+00:00",
-        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
+        "title": "Toyota revives Scion — with an Indiana-built kei truck",
+        "url": "https://www.wardsauto.com/news/toyota-revives-scion-with-an-indiana-built-kei-truck/874841/",
+        "date": "2026-11-19T17:28:00+00:00",
+        "summary": "The automaker has rebooted the brand, once tasked with selling Toyota to Gen Xers, as “a freedom lab” for mobility."
+      },
+      {
+        "title": "Volkswagen ID.4 hack exposes Bluetooth security risks",
+        "url": "https://www.wardsauto.com/news/volkswagen-id4-hack-exposes-bluetooth-security-risks/875008/",
+        "date": "2026-11-19T17:27:00+00:00",
+        "summary": "Cybersecurity experts gained access to vehicle functions, occupants’ phone messages, conversations and contacts, which highlights the need for more secure…"
+      },
+      {
+        "title": "How smart manufacturing is shaping the automotive industry",
+        "url": "https://www.wardsauto.com/news/how-smart-manufacturing-is-shaping-the-automotive-industry/875203/",
+        "date": "2026-11-19T16:16:00+00:00",
+        "summary": "U.S. automakers are implementing AI-driven technologies to remain competitive with China and lower operational costs, a Center for Automotive Research analyst…"
       },
       {
         "title": "Honda invests $462M in Alabama plant to boost production",
@@ -97,28 +109,16 @@
         "summary": "The funds will be used to increase production capacity of high-demand models and add a line to build a new V-6 hybrid engine."
       },
       {
-        "title": "Automakers face big challenges as they compete with China’s brands",
-        "url": "https://www.wardsauto.com/news/automakers-face-big-challenges-as-they-compete-with-chinas-brands/874686/",
-        "date": "2026-11-17T17:12:00+00:00",
-        "summary": "Legacy OEMs need to reduce manufacturing costs, improve technology and build more affordable vehicles to stay competitive in the global market."
+        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
+        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
+        "date": "2026-11-18T16:25:00+00:00",
+        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
       },
       {
-        "title": "Mercedes-Benz freezes German plant investment as production costs soar",
-        "url": "https://www.wardsauto.com/news/mercedes-benz-freezes-german-plant-investment-as-production-costs-soar/874790/",
-        "date": "2026-11-17T17:04:00+00:00",
-        "summary": "A growing cost disparity with Eastern European factories has pushed the automaker to rethink the future of its domestic manufacturing operations."
-      },
-      {
-        "title": "Auto loan delinquency stats could begin to lessen as pandemic ‘echo’ fades",
-        "url": "https://www.wardsauto.com/news/auto-loan-delinquency-stats-could-begin-to-lessen-as-pandemic-echo-fades/874795/",
-        "date": "2026-11-17T16:57:00+00:00",
-        "summary": "While delinquencies are still on the rise, New York Fed researchers believe the trend is a throwback to an era when inflated credit scores helped more…"
-      },
-      {
-        "title": "Why Stivers Automotive Group bought a Kia dealership from Asbury",
-        "url": "https://www.wardsauto.com/news/why-stivers-automotive-group-bought-a-kia-dealership-from-asbury/874700/",
-        "date": "2026-11-16T15:35:00+00:00",
-        "summary": "Kia is one of just a few brands the dealer group has chosen to focus on, as it scales its business by spanning different regions with similar franchises."
+        "title": "JLR’s restructuring leads to large loss in Q2",
+        "url": "https://www.wardsauto.com/news/jlrs-restructuring-leads-to-large-loss-in-q2/874720/",
+        "date": "2026-11-18T16:19:00+00:00",
+        "summary": "A year after a crippling cyberattack, the automaker is now absorbing the costs of job cuts and hopes that newly launched models will help grow its sales…"
       }
     ]
   }
