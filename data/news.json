@@ -1,6 +1,6 @@
 {
   "stock-market": {
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "stories": [
       {
         "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
@@ -41,49 +41,67 @@
     ]
   },
   "motorsport": {
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "stories": [
       {
-        "title": "Maverick Vinales withdraws from the Portuguese GP",
-        "url": "https://www.motorsport.com/motogp/news/maverick-vinales-withdraws-from-the-portuguese-gp/10876063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T14:53:15+00:00",
-        "summary": "Maverick Vinales will sit out the remainder of MotoGP's Portuguese Grand Prix weekend, with Tech3 drafting in KTM's test rider Pol Espargaro as his…"
+        "title": "MotoGP to move race start time in 2027, avoid F1 clashes",
+        "url": "https://www.motorsport.com/motogp/news/motogp-to-move-race-start-time-in-2027-avoid-f1-clashes/10876478/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T12:15:16+00:00",
+        "summary": "MotoGP officials have informed teams this weekend at Portimao that races will start an hour later from next season, with both the Sunday grand prix and…"
       },
       {
-        "title": "Toyota, M-Sport weigh in on the WRC 2027 Rally1-vs-Rally2 debate",
-        "url": "https://www.motorsport.com/wrc/news/how-toyota-m-sport-view-the-wrc-2027-rally1-vs-rally2-debate/10876048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T13:25:59+00:00",
-        "summary": "Barring a freak event, new Rally1 cars will have the performance edge over Rally2 cars to win all World Rally Championship rallies in 2027, Toyota and M-Sport…"
+        "title": "MotoGP Portuguese Grand Prix: Marco Bezzecchi on pole, Marc Marquez second",
+        "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-grand-prix-marco-bezzecchi-on-pole-marc-marquez-second/10876485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T11:58:48+00:00",
+        "summary": "Marco Bezzecchi showed all his cards on Saturday morning at Portimao, storming to pole position with a record lap time. Marc Marquez put himself in a good…"
       },
       {
-        "title": "Charles Leclerc opens up on sleepless nights and parenthood: \"Forget about how tired you are\"",
-        "url": "https://www.motorsport.com/culture/news/leclerc-opens-up-on-sleepless-nights-with-newborn-daughter-bianca-you-forget-about-how-tired-you-are/10875998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T12:53:51+00:00",
-        "summary": "Formula 1’s late-night Las Vegas Grand Prix timetable is tough on any driver’s body clock, but Charles Leclerc arrived in Nevada already running on a fraction…"
+        "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
+        "url": "https://www.motorsport.com/f1/news/how-mclaren-tried-to-mitigate-its-las-vegas-f1-top-speed-deficit/10876451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T11:41:02+00:00",
+        "summary": "Despite what was a respectable result on a circuit that accentuated the MCL40's flaws without rewarding its virtues, Lando Norris was not best pleased with how…"
       },
       {
-        "title": "Max Verstappen: “I really thought that we would not win a race this year”",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T12:43:44+00:00",
-        "summary": "Heading into the Las Vegas Grand Prix on a run of eight consecutive podiums, Max Verstappen looks every bit the force who dominated Formula 1 earlier this…"
+        "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes",
+        "url": "https://www.motorsport.com/f1/news/kimi-antonelli-and-george-russell-to-discuss-traffic-woes-in-las-vegas-gp-qualifying/10876431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T11:02:55+00:00",
+        "summary": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and…"
       },
       {
-        "title": "Fernando Alonso returns to Dakar: Why his first rally-raid experience was a shock to the system",
-        "url": "https://www.motorsport.com/dakar/news/fernando-alonso-returns-to-dakar-why-his-first-rally-raid-experience-was-a-shock-to-the-system/10875881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T12:15:03+00:00",
-        "summary": "While Fernando Alonso reiterated in Las Vegas that, in his view, Formula 1 has thrown away 16 years of pure racing before the return of V8 engines in 2030, the…"
+        "title": "Max Verstappen shares theory on Ferrari's lack of top speed in F1 2026",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-theory-on-ferraris-lack-of-top-speed-in-f1-2026/10876424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T10:31:10+00:00",
+        "summary": "Although Max Verstappen was not entirely satisfied with his second-fastest time in qualifying for the Formula 1 Las Vegas Grand Prix – pointing to a mysterious…"
       },
       {
-        "title": "How the F1 2026 regulations neutered Oscar Piastri's \"real strength\"",
-        "url": "https://www.motorsport.com/f1/news/how-the-f1-2026-regulations-neutered-oscar-piastris-real-strength/10875907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-20T11:30:03+00:00",
-        "summary": "McLaren boss Zak Brown reckons Oscar Piastri’s struggles in the 2026 Formula 1 season stem from high-speed corners being his strength - but the new cars…"
+        "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
+        "url": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-21T09:43:39+00:00",
+        "summary": "Fernando Alonso says Honda’s power deficit is so dire that other cars are taking extra margin around the Aston Martins at Formula 1’s Las Vegas Grand Prix. The…"
       }
     ]
   },
   "automotive-industry": {
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "stories": [
+      {
+        "title": "Used cars, real estate and volume: Why Groupe Olivier is expanding to the US",
+        "url": "https://www.wardsauto.com/news/used-cars-real-estate-and-volume-why-groupe-olivier-is-expanding-to-the-u/875087/",
+        "date": "2026-11-20T16:54:00+00:00",
+        "summary": "The Canada-based auto group recently bought two Chevrolet and one Ford dealership in Michigan, launching it into new territory as it eyes a goal of 40 rooftops…"
+      },
+      {
+        "title": "Bentley supplier starts work on new axle plant",
+        "url": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
+        "date": "2026-11-20T16:03:00+00:00",
+        "summary": "ZF Foxconn Chassis Modules began construction on a new facility built exclusively to supply Bentley, just 17 miles from the automaker’s U.K. headquarters."
+      },
+      {
+        "title": "Ford’s BlueOval Battery Park ships the first cells for the Fathom electric truck",
+        "url": "https://www.wardsauto.com/news/fords-blueoval-battery-park-ships-the-first-cells-for-the-fathom-electric/875190/",
+        "date": "2026-11-20T15:59:00+00:00",
+        "summary": "The first lithium iron phosphate battery cells manufactured in Michigan are being shipped to the automaker’s Louisville Assembly Plant to be installed in…"
+      },
       {
         "title": "Toyota revives Scion — with an Indiana-built kei truck",
         "url": "https://www.wardsauto.com/news/toyota-revives-scion-with-an-indiana-built-kei-truck/874841/",
@@ -94,31 +112,13 @@
         "title": "Volkswagen ID.4 hack exposes Bluetooth security risks",
         "url": "https://www.wardsauto.com/news/volkswagen-id4-hack-exposes-bluetooth-security-risks/875008/",
         "date": "2026-11-19T17:27:00+00:00",
-        "summary": "Cybersecurity experts gained access to vehicle functions, occupants’ phone messages, conversations and contacts, which highlights the need for more secure…"
+        "summary": "Cybersecurity experts gained access to vehicle functions, occupants’ phone messages, conversations and contacts, highlighting the need for more secure consumer…"
       },
       {
         "title": "How smart manufacturing is shaping the automotive industry",
         "url": "https://www.wardsauto.com/news/how-smart-manufacturing-is-shaping-the-automotive-industry/875203/",
         "date": "2026-11-19T16:16:00+00:00",
         "summary": "U.S. automakers are implementing AI-driven technologies to remain competitive with China and lower operational costs, a Center for Automotive Research analyst…"
-      },
-      {
-        "title": "Honda invests $462M in Alabama plant to boost production",
-        "url": "https://www.wardsauto.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/874978/",
-        "date": "2026-11-18T16:46:00+00:00",
-        "summary": "The funds will be used to increase production capacity of high-demand models and add a line to build a new V-6 hybrid engine."
-      },
-      {
-        "title": "EV growth in Europe faces slow charging rollout, uneven sales",
-        "url": "https://www.wardsauto.com/news/ev-growth-in-europe-faces-slow-charging-rollout-uneven-sales/874475/",
-        "date": "2026-11-18T16:25:00+00:00",
-        "summary": "A trade group representing automakers warns of a slow rollout of public charging points that remains more than 2 million lower than 2030 EU targets."
-      },
-      {
-        "title": "JLR’s restructuring leads to large loss in Q2",
-        "url": "https://www.wardsauto.com/news/jlrs-restructuring-leads-to-large-loss-in-q2/874720/",
-        "date": "2026-11-18T16:19:00+00:00",
-        "summary": "A year after a crippling cyberattack, the automaker is now absorbing the costs of job cuts and hopes that newly launched models will help grow its sales…"
       }
     ]
   }
