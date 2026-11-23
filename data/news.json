@@ -1,6 +1,6 @@
 {
   "stock-market": {
-    "updated": "2026-11-22",
+    "updated": "2026-11-23",
     "stories": [
       {
         "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
@@ -41,49 +41,73 @@
     ]
   },
   "motorsport": {
-    "updated": "2026-11-22",
+    "updated": "2026-11-23",
     "stories": [
       {
-        "title": "MotoGP Portuguese GP: Marc Marquez crowned 2026 champion as Marco Bezzecchi wins tense race",
-        "url": "https://www.motorsport.com/motogp/news/motogp-portuguese-gp-marc-marquez-crowned-2026-champion-as-marco-bezzecchi-wins-tense-race/10876956/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T13:49:52+00:00",
-        "summary": "Marc Marquez sealed the 2026 MotoGP title with a conservative ride to eighth at the Portuguese Grand Prix, as Marco Bezzecchi led a 1-2-3 finish for Aprilia.…"
+        "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
+        "url": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T17:51:43+00:00",
+        "summary": "Max Verstappen has never been one for forced showmanship, and Formula 1’s Las Vegas Grand Prix Fan Forum offered another reminder. Appearing on stage in Red…"
       },
       {
-        "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
-        "url": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T11:58:03+00:00",
-        "summary": "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which…"
+        "title": "Max Verstappen reveals he is considering 2027 Daytona 24 Hours entry",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T17:42:25+00:00",
+        "summary": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona. The Dutchman said he was primarily there to film content with Red…"
       },
       {
-        "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
-        "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T11:26:45+00:00",
-        "summary": "Lewis Hamilton subtly implied Charles Leclerc’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix. Hamilton and Leclerc were…"
+        "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
+        "url": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T17:38:42+00:00",
+        "summary": "Formula 1 left Las Vegas facing an awkward paradox. Barely 24 hours after the FIA confirmed unanimous agreement on a framework to introduce simpler, 2.1-litre…"
       },
       {
-        "title": "Fabio Quartararo on Portimao sprint charge: 'The first few laps were fun!'",
-        "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-on-portimao-sprint-charge-the-first-few-laps-were-fun/10876614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T11:01:35+00:00",
-        "summary": "Fabio Quartararo is more upbeat than usual ahead of Sunday's Portuguese Grand Prix, following a \"fun\" ride in the sprint race on Saturday. The French rider…"
+        "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
+        "url": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T17:04:03+00:00",
+        "summary": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the…"
       },
       {
-        "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
-        "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T10:34:15+00:00",
-        "summary": "A pack of cars covered by seconds, the top three trading first position as part of 35 lead changes, and drivers trying to figure out the best positioning to be…"
+        "title": "Tsunami RT announces 2027 IMSA Michelin Endurance Cup entry in GTD",
+        "url": "https://www.motorsport.com/imsa/news/tsunami-rt-announces-2027-imsa-michelin-endurance-cup-entry-in-gtd/10877265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T16:42:26+00:00",
+        "summary": "San Marino-based racing team Tsunami RT will make its IMSA debut in 2027, entering a Porsche 911 GT3 R (992) in the Grand Touring Daytona (GTD) class for all…"
       },
       {
-        "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
-        "url": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-22T10:13:23+00:00",
-        "summary": "While the clash between Max Verstappen and George Russell during the third free practice session for the Formula 1 Las Vegas Grand Prix appeared to have been…"
+        "title": "MotoGP riders pay tribute to Marc Marquez, label him the GOAT",
+        "url": "https://www.motorsport.com/motogp/news/motogp-riders-pay-tribute-marc-marquez-goat-10th-world-title/10877013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-23T16:27:49+00:00",
+        "summary": "Marc Marquez continues to add to his legacy as a MotoGP rider and an athlete destined to go down in history as one of the greatest ever seen. The 10-time world…"
       }
     ]
   },
   "automotive-industry": {
-    "updated": "2026-11-22",
+    "updated": "2026-11-23",
     "stories": [
+      {
+        "title": "Nissan promotes manufacturing leader to Americas vice chairman",
+        "url": "https://www.wardsauto.com/news/nissan-promotes-manufacturing-leader-to-americas-vice-chairman/875282/",
+        "date": "2026-11-23T16:31:00+00:00",
+        "summary": "David Johnson will continue to serve in his current role as senior vice president, manufacturing, purchasing and supply chain management, overseeing operations…"
+      },
+      {
+        "title": "BMW recalls over 720K vehicles for second time over fire risk",
+        "url": "https://www.wardsauto.com/news/bmw-recalls-over-720k-vehicles-for-second-time-over-fire-risk/875361/",
+        "date": "2026-11-23T16:30:00+00:00",
+        "summary": "An electrical connector on the engine’s water pump can degrade and be exposed to moisture, leading to a short circuit."
+      },
+      {
+        "title": "Genesis reveals hybrid models, adds 6 new US dealerships",
+        "url": "https://www.wardsauto.com/news/genesis-reveals-hybrid-models-adds-6-new-us-dealerships/875420/",
+        "date": "2026-11-23T16:03:00+00:00",
+        "summary": "The rapidly growing Hyundai luxury brand will soon get two hybrid models, in addition to a plug-in EREV."
+      },
+      {
+        "title": "When every mile counts: How AI improves commercial vehicle lifecycles",
+        "url": "https://www.wardsauto.com/spons/when-every-mile-counts-how-ai-improves-commercial-vehicle-lifecycles/875152/",
+        "date": "2026-11-23T10:00:00+00:00",
+        "summary": "From predictive diagnostics to faster repairs, see how AI keeps commercial fleets moving."
+      },
       {
         "title": "Used cars, real estate and volume: Why Groupe Olivier is expanding to the US",
         "url": "https://www.wardsauto.com/news/used-cars-real-estate-and-volume-why-groupe-olivier-is-expanding-to-the-u/875087/",
@@ -95,30 +119,6 @@
         "url": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
         "date": "2026-11-20T16:03:00+00:00",
         "summary": "ZF Foxconn Chassis Modules began construction on a new facility built exclusively to supply Bentley, just 17 miles from the automaker’s U.K. headquarters."
-      },
-      {
-        "title": "Ford’s BlueOval Battery Park ships the first cells for the Fathom electric truck",
-        "url": "https://www.wardsauto.com/news/fords-blueoval-battery-park-ships-the-first-cells-for-the-fathom-electric/875190/",
-        "date": "2026-11-20T15:59:00+00:00",
-        "summary": "The first lithium iron phosphate battery cells manufactured in Michigan are being shipped to the automaker’s Louisville Assembly Plant to be installed in…"
-      },
-      {
-        "title": "Toyota revives Scion — with an Indiana-built kei truck",
-        "url": "https://www.wardsauto.com/news/toyota-revives-scion-with-an-indiana-built-kei-truck/874841/",
-        "date": "2026-11-19T17:28:00+00:00",
-        "summary": "The automaker has rebooted the brand, once tasked with selling Toyota to Gen Xers, as “a freedom lab” for mobility."
-      },
-      {
-        "title": "Volkswagen ID.4 hack exposes Bluetooth security risks",
-        "url": "https://www.wardsauto.com/news/volkswagen-id4-hack-exposes-bluetooth-security-risks/875008/",
-        "date": "2026-11-19T17:27:00+00:00",
-        "summary": "Cybersecurity experts gained access to vehicle functions, occupants’ phone messages, conversations and contacts, highlighting the need for more secure consumer…"
-      },
-      {
-        "title": "How smart manufacturing is shaping the automotive industry",
-        "url": "https://www.wardsauto.com/news/how-smart-manufacturing-is-shaping-the-automotive-industry/875203/",
-        "date": "2026-11-19T16:16:00+00:00",
-        "summary": "U.S. automakers are implementing AI-driven technologies to remain competitive with China and lower operational costs, a Center for Automotive Research analyst…"
       }
     ]
   }
