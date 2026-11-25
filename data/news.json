@@ -1,6 +1,6 @@
 {
   "stock-market": {
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "stories": [
       {
         "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
@@ -41,49 +41,67 @@
     ]
   },
   "motorsport": {
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "stories": [
       {
-        "title": "Kalle Rovanpera: New 2027 WRC cars will see \"everybody start from zero\"",
-        "url": "https://www.motorsport.com/wrc/news/kalle-rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877523/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T17:12:36+00:00",
-        "summary": "Kalle Rovanpera expects the 2027 World Rally Championship to be a reset for the drivers with ‘everybody starting from zero’ as they adapt to all-new Rally1…"
+        "title": "AF Corse USA steps up to full-season IMSA GTD campaign in 2027",
+        "url": "https://www.motorsport.com/imsa/news/af-corse-usa-steps-up-to-full-season-imsa-gtd-campaign-in-2027/10877748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T16:44:08+00:00",
+        "summary": "AF Corse USA is expanding its IMSA WeatherTech SportsCar Championship presence to a full-season Grand Touring Daytona (GTD) campaign with its #50 Ferrari 296…"
       },
       {
-        "title": "Charles Leclerc’s Ferrari SUV is up for sale with scars from his viral Monaco crash",
-        "url": "https://www.motorsport.com/culture/news/charles-leclercs-daily-driven-ferrari-purosangue-is-up-for-sale-complete-with-scars-from-his-viral-/10877490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T17:06:09+00:00",
-        "summary": "In the exotic-car market, buyers normally run the other way at the first hint of high mileage, kerbed wheels, or accident history. When the previous owner…"
+        "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
+        "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T16:38:50+00:00",
+        "summary": "The Williams and Alpine F1 teams have fallen foul of Formula 1's 2025 cost cap, reaching an Accepted Breach Agreement with the FIA, with Williams incurring a…"
       },
       {
-        "title": "Gigi Dall'Igna: ‘Marc Marquez is the best rider in history, no doubt about that’",
-        "url": "https://www.motorsport.com/motogp/news/gigi-dalligna-marc-marquez-is-the-best-rider-in-history-no-doubt-about-that/10877521/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T16:36:03+00:00",
-        "summary": "With the 2027 MotoGP championship battle settled by Marc Marquez's 10th world title, you don't need extensive knowledge to understand that without him Ducati…"
+        "title": "Aprilia MotoGP duo set for fond farewell after Valencia duel: \"We found something we didn't expect\"",
+        "url": "https://www.motorsport.com/motogp/news/wedswhy-aprilias-duo-is-set-for-a-fond-farewell-after-valencia-duel-we-found-something-we-didnt-exp/10877197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T16:07:20+00:00",
+        "summary": "Aprilia's factory pairing of Marco Bezzecchi and Jorge Martin will end a two-year stint in the same garage with a final-round battle for second place in the…"
       },
       {
-        "title": "Robert Wickens set for first full-season IMSA WeatherTech Campaign in 2027 with Hanley Motorsports",
-        "url": "https://www.motorsport.com/imsa/news/robert-wickens-set-for-first-full-season-imsa-weathertech-campaign-in-2027-with-hanley-motorsports/10877508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T16:30:06+00:00",
-        "summary": "Hanley Motorsports Incorporated (HMI) has signed Robert Wickens and Mason Filippi as its full-season driver pairing for the 2027 IMSA WeatherTech SportsCar…"
+        "title": "Injured Francesco Bagnaia will miss last GP with Ducati, first test with Aprilia",
+        "url": "https://www.motorsport.com/motogp/news/embargo-injured-francesco-bagnaia-will-miss-last-gp-with-ducati-first-test-with-aprilia/10877690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T15:43:44+00:00",
+        "summary": "Francesco Bagnaia will not be able to say goodbye on the Ducati he has ridden over his eight MotoGP seasons so far, with two world titles and 31 wins in 146…"
       },
       {
-        "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
-        "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T15:38:33+00:00",
-        "summary": "Pierre Gasly reckons he potentially had the pace to win the Las Vegas Grand Prix, had a cooling issue not affected his Alpine Formula 1 car in the closing…"
+        "title": "Jack Harvey named Special Advisor at Dreyer & Reinbold, will sit out 2027 Indy 500",
+        "url": "https://www.motorsport.com/indycar/news/jack-harvey-named-special-advisor-at-dreyer-reinbold-will-sit-out-2027-indy-500/10877714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T15:20:46+00:00",
+        "summary": "IndyCar driver and FOX Sports reporter Jack Harvey has announced that he will step aside from competing in the 2027 Indianapolis 500, shifting his focus toward…"
       },
       {
-        "title": "Maverick Vinales ruled out of Valencia GP, can’t bid farewell to MotoGP",
-        "url": "https://www.motorsport.com/motogp/news/maverick-vinales-ruled-out-of-valencia-gp-cant-bid-farewell-to-motogp/10877477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-        "date": "2026-11-24T13:53:08+00:00",
-        "summary": "As has been the case at many MotoGP races since he injured his shoulder in qualifying at the 2025 German Grand Prix, Maverick Vinales won’t take part in the…"
+        "title": "What Peugeot had planned for its abandoned 2027 WEC Hypercar",
+        "url": "https://www.motorsport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+        "date": "2026-11-25T15:06:26+00:00",
+        "summary": "The 2027-spec 9X8 LMH was set to offer Peugeot its best chance of becoming a consistent World Endurance Championship frontrunner against some stiff Hypercar…"
       }
     ]
   },
   "automotive-industry": {
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "stories": [
+      {
+        "title": "The gaping reshoring gap: America’s tool and die industry",
+        "url": "https://www.wardsauto.com/news/the-gaping-reshoring-gap-americas-tool-and-die-industry/874860/",
+        "date": "2026-11-24T17:38:00+00:00",
+        "summary": "A lost generation of skilled tradespeople has left an essential behind-the-scenes piece of the auto industry in an existential crisis."
+      },
+      {
+        "title": "Ford to acquire minority stake in satellite maker Revolution Space",
+        "url": "https://www.wardsauto.com/news/ford-to-acquire-minority-stake-in-satellite-maker-revolution-space/875645/",
+        "date": "2026-11-24T16:47:00+00:00",
+        "summary": "The automaker made an undisclosed investment in Revolution Space through its subsidiary, Industrial Platform. The companies will work together to scale…"
+      },
+      {
+        "title": "Bob Broderdorf returns to Stellantis as Dodge CEO after medical leave",
+        "url": "https://www.wardsauto.com/news/bob-broderdorf-returns-to-stellantis-as-dodge-ceo-after-medical-leave/875490/",
+        "date": "2026-11-24T16:47:00+00:00",
+        "summary": "He was appointed CEO of Jeep in February 2025 but stepped down from the role this summer after a stage 4 cancer diagnosis."
+      },
       {
         "title": "Nissan promotes manufacturing leader to Americas vice chairman",
         "url": "https://www.wardsauto.com/news/nissan-promotes-manufacturing-leader-to-americas-vice-chairman/875282/",
@@ -101,24 +119,6 @@
         "url": "https://www.wardsauto.com/news/genesis-reveals-hybrid-models-adds-6-new-us-dealerships/875420/",
         "date": "2026-11-23T16:03:00+00:00",
         "summary": "The rapidly growing Hyundai luxury brand will soon get two hybrid models, in addition to a plug-in EREV."
-      },
-      {
-        "title": "When every mile counts: How AI improves commercial vehicle lifecycles",
-        "url": "https://www.wardsauto.com/spons/when-every-mile-counts-how-ai-improves-commercial-vehicle-lifecycles/875152/",
-        "date": "2026-11-23T10:00:00+00:00",
-        "summary": "From predictive diagnostics to faster repairs, see how AI keeps commercial fleets moving."
-      },
-      {
-        "title": "Used cars, real estate and volume: Why Groupe Olivier is expanding to the US",
-        "url": "https://www.wardsauto.com/news/used-cars-real-estate-and-volume-why-groupe-olivier-is-expanding-to-the-u/875087/",
-        "date": "2026-11-20T16:54:00+00:00",
-        "summary": "The Canada-based auto group recently bought two Chevrolet and one Ford dealership in Michigan, launching it into new territory as it eyes a goal of 40 rooftops…"
-      },
-      {
-        "title": "Bentley supplier starts work on new axle plant",
-        "url": "https://www.wardsauto.com/news/bentley-supplier-starts-work-on-new-axle-plant/875158/",
-        "date": "2026-11-20T16:03:00+00:00",
-        "summary": "ZF Foxconn Chassis Modules began construction on a new facility built exclusively to supply Bentley, just 17 miles from the automaker’s U.K. headquarters."
       }
     ]
   }
